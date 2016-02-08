@@ -1,0 +1,3 @@
+This README is necessary to tell Drake that SNOPT exists. 
+
+Technically this README should contain the words "student Version" without a space, to tell Drake that this isn't the full version. However, at the moment Drake rarely looks for studentsnopt, so things work better if we pretend it is.
